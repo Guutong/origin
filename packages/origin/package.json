@@ -52,7 +52,7 @@
         "@energyweb/origin-backend-client": "4.0.0",
         "@energyweb/origin-backend-client-mocks": "1.0.0",
         "ethlint": "1.2.5",
-        "fs-extra": "8.1.0",
+        "fs-extra": "9.0.0",
         "moment": "2.24.0",
         "truffle-flattener": "1.4.2"
     },
